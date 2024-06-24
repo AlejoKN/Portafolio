@@ -1,1 +1,100 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>CURRICULUM</title>
+        <meta name="description" content="Este es mi curriculum el 11 de junio de 2024">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Alejandro Pacheco</h1>
+                <nav>
+                    <ul>
+                        <li><a href="https://www.linkedin.com/in/alejo-p-2103a8304">LinkedIn</a></li>
+                        <li><a href="https://alejoandrade7.wordpress.com">WordPress</a></li>
+                        <li><a href="https://ink-vers.blogspot.com/">Blogger</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+                        <h1>Sobre mi</h1>
+                        <img src="C:\Users\Invitado 01\Downloads\dejavu1\dejavu1\images\Foto-Inspiracion.jpg" alt="" width="600" height="333">
+                        <p>Actualmente estoy estudiando la carrera de Marketing Digital en el Instituto Tecnológico Superior Cordillera cursando el segundo semestre, soy alegre y me adapto a las distintas situaciones que se presenten.</p>
+                    </header>
+                    <section>
+                        <h2>Experiencia Laboral</h2>
+
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/0XwCTieG-HE?si=XKNh4K8lVOaSVRpZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                        <p>Bachiller en Ciencias | Unidad Educativa “INEPE” | 2008-2022</p>
+                        <p>Tecnólogo Superior en Marketing Digital y Comercio Electrónico | Instituto Tecnológico Superior “Cordillera” | 2023-En curso.</p>
+                    </section>
+                    <section>
+                        <h2>Educación</h2>
+                        <p>Técnico de Electrodomésticos | Electrolux | 2023</p>
+                        <p>Atención al Cliente y Recepcionista | Grupo ÁLPA | 2022-2023</p>
+                    </section>
+                    <section>
+                        <h2>Certificados</h2>
+                        <p>Certificado de Cloud Computing | Google y Escuela de Organización Industrial | 2024</p>
+                    </section>
+                    <footer>
+                        <h3>Referencias</h3>
+                        <p>Andrés Álvarez | Licenciado en Gerencia y Liderazgo | 0968325070</p>
+                        <p>Erika Yaguachi | Licenciada en Gerencia y Liderazgo | 0995029699</p>
+                    </footer>
+                </article>
+
+                <aside>
+                    <h1>Tecnólogo en Marketing Digital y Comercio Electrónico</h1>
+                    <img src="C:\Users\Invitado 01\Downloads\dejavu1\dejavu1\images\JoséAlejandro-PachecoAndrade.png" alt="" width="300" height="300">
+                    <h2>Contacto</h2>
+                    <p>Correo Electrónico: alejumandro@outlook.com</p>
+                    <a href="https://www.linkedin.com/in/alejo-p-2103a8304" target="_blank">
+                        <i class="fab fa-linkedin linkedin-icon"></i>
+                    </a>
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>Derechos de Autor</h3>
+                <p>© 2024 - Alejandro Pacheco. All rights reserved.</p>
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.803929237421!2d-78.49220712503542!3d-0.15388924984459382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59aba9e05e6a1%3A0x606478970ed82284!2sInstituto%20Superior%20Tecnol%C3%B3gico%20Cordillera!5e0!3m2!1ses-419!2sec!4v1718759013331!5m2!1ses-419!2sec" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
 
